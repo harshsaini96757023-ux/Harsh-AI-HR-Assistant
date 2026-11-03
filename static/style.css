@@ -1310,3 +1310,34 @@ button {
     }
 
 }
+
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+}
+
+.social-btn {
+    text-decoration: none;
+    padding: 12px 22px;
+    border-radius: 12px;
+    font-weight: 600;
+    color: white;
+    transition: 0.3s ease;
+}
+
+.instagram {
+    background: linear-gradient(45deg, #833ab4, #fd1d1d, #fcb045);
+}
+
+.whatsapp {
+    background: #25D366;
+}
+
+.social-btn:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px #0002;
+}
