@@ -1,0 +1,44 @@
+{
+  "name": "Harsh Saini",
+  "headline": "BCA Graduate | Python Developer | AI & Data Analytics",
+  "location": "Saharanpur, Uttar Pradesh, India",
+  "education": [
+    {
+      "qualification": "Bachelor of Computer Applications (BCA)",
+      "institution": "Maa Shakumbhari University",
+      "year": "2026",
+      "cgpa": "6.46"
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "MySQL",
+    "Django",
+    "FastAPI",
+    "Pandas",
+    "NumPy",
+    "AI & Data Analytics"
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "name": "AI Resume Job Matcher",
+      "description": "AI-based application to analyze resumes and compare candidate profiles with job descriptions.",
+      "url": ""
+    },
+    {
+      "name": "Sales Analytics Dashboard",
+      "description": "A data analytics dashboard project.",
+      "url": "https://2ctjqyjtrkwpptmcxqwpha.streamlit.app"
+    }
+  ],
+  "github": "https://github.com/harshsaini96757023-ux",
+  "portfolio": "",
+  "career_goal": "Seeking an entry-level opportunity in Python development, backend development, or AI/data analytics.",
+  "languages": [
+    "Hindi",
+    "English (basic)"
+  ],
+  "contact_policy": "Recruiters should use the interview request form or contact details shared directly by the candidate."
+}
